@@ -1,0 +1,9 @@
+{
+  "name": "com.your_company.hyperlink_tracker",
+  "description": "Native messaging host for the Hyperlink Tracker extension",
+  "path": "C:\\Users\\kulde\\OneDrive\\Desktop\\myassign\\hyperlink-tracker\\native_host.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://kkhdcpemehohmnccgddmcdefmemafpei/"
+  ]
+}
